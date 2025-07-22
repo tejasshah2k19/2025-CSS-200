@@ -35,3 +35,13 @@ property:value;
 
 
  internal ->css 
+
+
+ text-align
+ background-color
+ font-size
+ font-family
+ border
+ border-radius
+ padding 
+ 
