@@ -1,0 +1,37 @@
+CSS
+
+
+HTML -> webpage -> design -> CSS 
+
+
+html -> webpage --> static 
+
+
+dynamic -> 
+
+
+html ---> tags 
+                1)  container tag --> <> </>   <body></body>  
+                2)  empty tag    -> <> , </>   <hr>  </br>
+
+
+CSS ---> attributes , property 
+            key:value 
+
+HTML ---> CSS --> 
+        1) inline 
+        2) internal 
+        3) external 
+
+
+
+inline ---> 
+-------------------------------------------------
+
+
+property:value;
+
+ inline ->Css 
+
+
+ internal ->css 
