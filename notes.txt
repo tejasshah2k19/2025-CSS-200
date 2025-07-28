@@ -62,5 +62,51 @@ property:value;
 
  form -> 
 
+ -----------------------------------------------------------------------------
 
- 
+inline , internal , external 
+
+
+inline -> style=""
+
+internal -> <style>
+
+
+select -> tag 
+
+p{
+
+}
+
+body{
+
+}
+
+
+tag base 
+        p{
+
+        }
+
+class base  -> dot operator  . 
+        .p{
+
+        }
+
+id base  -> hashtag # 
+        #p{
+
+        }
+
+class and id we need to explicitly assign 
+
+
+
+------------------------------------------------------------------------------
+
+
+multiple class
+
+id -> single 
+
+------------------------------------------------------------------------------
