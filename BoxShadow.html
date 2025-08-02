@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box {
+            border: 1px solid black;
+            /* padding-top: 20px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-right: 20px;  */
+            padding: 20px;
+            width: fit-content;
+            box-shadow: 5px 5px;
+            margin-bottom: 20px;
+
+        }
+
+        .boxGrey {
+            box-shadow: 5px 5px grey;
+        }
+
+        .blur {
+            border: 1px solid black;
+            width: fit-content;
+            padding: 20px;
+            box-shadow: 5px 5px 5px grey;
+            margin-bottom: 25px;
+        }
+
+        .greyTop {
+            border: 1px solid black;
+            width: fit-content;
+            padding: 20px;
+            box-shadow: 0px -5px 5px 3px grey;
+            margin-bottom: 25px;
+        }
+
+        .greyLeft {
+            border: 1px solid black;
+            width: fit-content;
+            padding: 20px;
+            box-shadow: -2px 0px 5px 5px grey;
+            margin-bottom: 25px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        This is Box Shadow
+    </div>
+
+    <div class="box boxGrey">This is Box Shadow grey</div>
+
+    <div class="blur">This is Box Shado Grey Blur</div>
+
+
+    <div class="greyTop">This is Box Shado Grey TOP</div>
+
+    <div class="greyLeft">This is Box Shado Grey LEFT</div>
+
+    <div style="box-shadow: inset 5px 5px 10px grey, 5px 5px 10px rgba(0, 0, 0, 0.2);padding:40px
+">This is Something NEW </div>
+
+</body>
+
+</html>
