@@ -1,0 +1,54 @@
+table {
+    height: 400px;
+    width: 500px;
+    background-color: white;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td {
+    /* border-top-style: solid;
+    border-top-color: #aaaa;
+    border-top-width: 1px;
+     */
+    border-top: 1px solid #aaaa;
+}
+
+th {
+    border-bottom: 2px solid #aaaa;
+}
+
+body {
+    background-color: #dddd;
+}
+
+.icon-red {
+    color: red;
+}
+
+.active {
+    background-color: rgb(46, 178, 46);
+    color: white;
+    /* padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px; */
+    padding: 3px 10px;
+    border-radius: 5px;
+}
+
+
+.inActive {
+    background-color: red;
+    color: white;
+     padding: 3px 10px;
+    border-radius: 5px;
+}
+
+
+.pending {
+    background-color: orange;
+    color: white;
+     padding: 3px 10px;
+    border-radius: 5px;
+}
